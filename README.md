@@ -8,7 +8,7 @@ I'm a 21-year-old developer based in Los Angeles, and I'm interested in programm
 
 **Frontend Development:** `Ionic` `Swift` `TypeScript` 
  
-**Version Control:** `Git`
+**I have now starting to practice with Jupyter Notebook!
 
 **Backend Development:** `SQL` `JavaScript` `Python` 
 
