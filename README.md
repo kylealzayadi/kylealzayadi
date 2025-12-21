@@ -1,8 +1,7 @@
 hey, i’m kyle.
 
 los angeles.  
-i build stuff.
-
-that’s it.
+mostly calm.
+maybe coding?
 
  
