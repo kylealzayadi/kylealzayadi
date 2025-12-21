@@ -1,27 +1,8 @@
-### Hey, I'm Kyle 👋🏽  
+hey, i’m kyle.
 
-I'm a 21-year-old developer based in Los Angeles, and I'm interested in programming and Data. 
+los angeles.  
+i build stuff.
 
-- Check out my [website](https://www.kylealzayadi.com) to learn more about me.
- 
-## 📦 Toolbox
-
-**Frontend Development:** `Ionic` `Swift` `TypeScript` 
- 
-**I have now starting to practice with Jupyter Notebook!
-
-**Backend Development:** `SQL` `JavaScript` `Python` 
-
-**Familiar with:** `React` `R` `R Markdown` `SQL` 
- 
-## ✨ Fun Facts 
-
-- Huge Anime fan, although I never talk about it.
-- Discord Nitro Subscriber, and proud about it!
-- KVM for life!
-
-## 📫 Contact
-
- For a quick response, email me: kylealzayadi@gmail.com
+that’s it.
 
  
