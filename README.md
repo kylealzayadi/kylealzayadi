@@ -1,7 +1,7 @@
 hey, i’m kyle.
 
 los angeles.  
-mostly calm.
+mostly having a sandwich.
 
 maybe coding?
 
